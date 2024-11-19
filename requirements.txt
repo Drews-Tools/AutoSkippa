@@ -1,0 +1,4 @@
+pyautogui
+screeninfo
+opencv-python
+pillow
